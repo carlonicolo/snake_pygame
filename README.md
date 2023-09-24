@@ -1,2 +1,3 @@
-# snake_pygame
-Arcade game snake in python
+# SNAKE
+
+Simple version of Snake arcade game in python using pygame library.
